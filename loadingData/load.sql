@@ -1,0 +1,11 @@
+load data local infile 'bidInformation.txt' into table bidInformation;
+load data local infile 'bidderLocation.txt' into table bidderLocation;
+load data local infile 'bidderRating.txt' into table bidderRating;
+load data local infile 'itemBidAmount.txt' into table itemBidAmount;
+load data local infile 'itemBuyPrice.txt' into table itemBuyPrice;
+load data local infile 'itemCategory.txt' into table itemCategory;
+load data local infile 'itemInformation.txt' into table itemInformation;
+load data local infile 'itemLatitude.txt' into table itemLatitude;
+load data local infile 'itemName.txt' into table itemName;
+load data local infile 'itemTime.txt' into table itemTime;
+load data local infile 'sellerRating.txt' into table sellerRating;
