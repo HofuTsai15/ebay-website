@@ -1,0 +1,11 @@
+drop table if exists bidInformation;
+drop table if exists bidderLocation;
+drop table if exists bidderRating;
+drop table if exists itemBidAmount;
+drop table if exists itemBuyPrice;
+drop table if exists itemCategory;
+drop table if exists itemInformation;
+drop table if exists itemLatitude;
+drop table if exists itemName;
+drop table if exists itemTime;
+drop table if exists sellerRating;
